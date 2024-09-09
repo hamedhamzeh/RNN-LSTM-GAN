@@ -6,7 +6,7 @@
 
 <h2>RNN - Recurrent Neural Networks</h2>
 <p>
-   The starting point is the RNN notebook, this notebook delves into the basics of Recurrent Neural Networks. It covers how RNNs are designed to handle sequential data and explores their application in time series prediction. The model is created from scratch with different complexity, trained on the weather forecasting dataset, and evaluated the model performance.
+    The starting point of this notebook is an exploration of Recurrent Neural Networks (RNNs), designed to handle sequential data. It covers their application in time series prediction, specifically focusing on weather forecasting. Following this, a Gated Recurrent Unit (GRU) model was also implemented and trained with different complexities. The GRU demonstrated improved results over the RNN in terms of performance.
     
 <h2>LSTM - Long Short-Term Memory Networks</h2>
 <p>
